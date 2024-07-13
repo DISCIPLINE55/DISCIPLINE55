@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../C++"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DISCIPLINE.HTML"
+	}
+}
